@@ -1,0 +1,9 @@
+Due 4/7 5PM
+
+3/19 ~ 3/23: read the project description and make a plan
+3/24 ~ 3/27: coding for part 1
+3/28 ~ 3/29: testing for part 1
+3/30 ~ 4/3: coding for part 2
+4/4 ~ 4/5: testing for part 2
+4/6: documentation
+4/7: submit
